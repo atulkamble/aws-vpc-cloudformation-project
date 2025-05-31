@@ -7,6 +7,7 @@ Create Keypair key.pem
 Create Role >> AWSCloudformationRole
 
 AWS Console >> Cloudformation >> Upload Tempale >> Select Template 
+
 ---
 
 ### ✅ **CloudFormation VPC Project Overview**
