@@ -1,5 +1,12 @@
 **AWS CloudFormation project to create a VPC setup** including a public and private subnet, Internet Gateway, NAT Gateway, route tables, and EC2 instances (one in each subnet).
+```
+git clone https://github.com/atulkamble/aws-vpc-cloudformation-project.git
+cd aws-vpc-cloudformation-project
+```
+Create Keypair key.pem
+Create Role >> AWSCloudformationRole
 
+AWS Console >> Cloudformation >> Upload Tempale >> Select Template 
 ---
 
 ### ✅ **CloudFormation VPC Project Overview**
