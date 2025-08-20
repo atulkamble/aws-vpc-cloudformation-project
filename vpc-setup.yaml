@@ -4,7 +4,7 @@ Description: VPC Setup with Public and Private Subnets, IGW, NAT, EC2 Instances
 Parameters:
   KeyName:
     Description: EC2 KeyPair to SSH
-    Type: AWS::EC2::KeyPair::KeyName
+    Type: AWS::EC2::KeyPair::mykey
 
 Resources:
 
